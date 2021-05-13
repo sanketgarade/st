@@ -1,0 +1,8 @@
+" vim swap files
+*.swp
+
+" object files
+*.o
+
+" st binary
+st
